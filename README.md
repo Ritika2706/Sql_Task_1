@@ -11,4 +11,4 @@ CodeTech_sql_Tasks ** COMPANY **: CODTECH IT SOLUTIONS
 
 ** MENTOR NAME ** : NEELA SANTHOSH
 
-** LINK OF THE TASKS **:
+** LINK OF THE TASKS **: https://github.com/Ritika2706/Sql_Task_1.git
